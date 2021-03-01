@@ -1,6 +1,7 @@
 # Excel-Clone
 
-Compile - g++ -o output main.cpp\n
+Compile - g++ -o output main.cpp
+
 Run     - ./output
 
 1) Store	data --> When	the	user	types	“STORE 4.2	A1”	program	stores	the	
