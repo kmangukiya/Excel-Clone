@@ -1,8 +1,8 @@
 # Excel-Clone
 
-Compile - g++ -o output main.cpp
+ Compile --> g++ -o output main.cpp
 
-Run     - ./output
+ Run     --> ./output
 
 1) Store	data --> When	the	user	types	“STORE 4.2	A1”	program	stores	the	
 value	4.2	in	location	A1 in	the	array.
